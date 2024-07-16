@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sn3rk
+- I'm a student looking to be a software engineer
+- 👀 I’m interested in learning python, java and building websites from scratch
